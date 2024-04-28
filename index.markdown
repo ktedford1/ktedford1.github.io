@@ -21,7 +21,7 @@ RESTful API that allows users to post snack recipes. Users can create an account
 ### Cache Simulator 
 A program to quantify cache memory access requests, written in the Rust programming language.
 
-badges
+![Static Badge](https://img.shields.io/badge/Rust-white?style=plastic&logo=Rust&logoColor=black)
 
 ![](/assets/img/crab.png)
 
