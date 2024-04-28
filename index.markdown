@@ -2,13 +2,13 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
-### or should I be changing this? 
-talk talk
+### Kerry Tedford
+Data Analyst 
 
-### is this the landing page?
-more more
+### About Me
+I am a ... I like ....
 
 ## I hope so
-yes
+yes yes
