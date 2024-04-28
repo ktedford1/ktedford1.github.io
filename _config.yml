@@ -7,10 +7,10 @@ description: >
   <br><br>
   Extra paragraph with more info...
   <br><br>
+  <a href="https://www.linkedin.com/in/kerry-tedford/">View my LinkedIn Profile</a> 
 
 url: "https://ktedford1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-  
