@@ -55,11 +55,9 @@ badges
 ### Customer Analysis
 An analysis of a video store company’s customer base that identified key customer groups by SQL querying of cleaned and joined RDBMS tables. The goal of this project was to assist the fictional online video rental company, Rockbuster Stealth LLC, by answering business questions about the location of their customer base and their preferences.
 
-![][Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=PostgreSQL) ![Static Badge](https://img.shields.io/badge/Tableau-white?style=plastic&logo=Tableau)
+![][Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=PostgreSQL)(#) ![Static Badge](https://img.shields.io/badge/Tableau-white?style=plastic&logo=Tableau)
 
 
 ![](/assets/img/rockbuster.png)
-
-badges
 
 [View code on Github](https://github.com/ktedford1/Customer-Analysis-for-Rockbuster-Videos)
