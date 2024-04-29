@@ -12,8 +12,6 @@ RESTful API that allows users to post snack recipes. Users can create an account
 
 ![](/assets/img/snacks.jpg)
 
-![](https://img.shields.io/badge/Python-white?style=plastic&logo=Python)
-
 [View code on Github](https://github.com/University-of-London/csm020-coursework-ktedford1)
 
 ---
@@ -44,6 +42,8 @@ badges
 ### Customer Analysis
 An identification of factors influencing grocery store purchases using pandas to clean, wrangle, and merge dataframes. Results visualized in a Tableau dashboard.
 
+![](https://img.shields.io/badge/Python-white?style=plastic&logo=Python)
+
 ![](/assets/img/instacart.png)
 
 badges
@@ -54,6 +54,8 @@ badges
 
 ### Customer Analysis
 An analysis of a video store company’s customer base that identified key customer groups by SQL querying of cleaned and joined RDBMS tables. The goal of this project was to assist the fictional online video rental company, Rockbuster Stealth LLC, by answering business questions about the location of their customer base and their preferences.
+
+![](https://img.shields.io/badge/Python-white?style=plastic&logo=Python)
 
 ![](/assets/img/rockbuster.png)
 
