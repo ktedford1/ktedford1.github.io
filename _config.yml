@@ -24,7 +24,7 @@ email: kerry-tedford@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Data Analyst with 10+ years of experience in scientific data analysis and a PhD in Immunology from Universität Würzburg, Germany. Proficient in Python, R, SQL, and Tableau. Currently studying computer science, focusing on cloud computing, machine learning, and data management.
   <br><br>
-  <a href="https://www.linkedin.com/in/kerry-tedford/">View my LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/kerry-tedford/">View My LinkedIn Profile</a> 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ktedford1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

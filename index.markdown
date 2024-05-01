@@ -21,12 +21,15 @@ Feel free to connect with me or get in touch via LinkedIn or GitHub 📧
 ---
 
 ### World Happiness Report
-A determination
-of which factors are responsible for happiness via regression analysis and K-means clustering of the UN-sponsored dataset. Results visualized in a Tableau dashboard.
+What determines our happiness in life? Is it internal? Or does it depend on conditions in the country we live in? This UN-sponsored Gallup international poll seeks to understand what determines happiness by asking just a few simple questions starting with “how happy are you?”. and covering freedom, political corruption, charitable giving, and social support. With this dataset, I asked, does national corruption control GDP per capita, and through that, control happiness? 
+
+![Static Badge](https://img.shields.io/badge/Jupyter-white?style=plastic&logo=Jupyter) ![Static Badge](https://img.shields.io/badge/Tableau-white?style=plastic&logo=Tableau) ![Static Badge](https://img.shields.io/badge/pandas-white?style=plastic&logo=Jupyter) ![Static Badge](https://img.shields.io/badge/NumPy-white?style=plastic&logo=NumPy) ![Static Badge](https://img.shields.io/badge/SciPy-white?style=plastic&logo=SciPy) ![Static Badge](https://img.shields.io/badge/scikit%20learn-white?style=plastic&logo=scikit-learn)
+
+
+
+
 
 ![](/assets/img/WHR2.png)
-
-badges
 
 [View code on Github](https://github.com/ktedford1/World-Happiness-Report-Analysis)
 
